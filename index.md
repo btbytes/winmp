@@ -2,4 +2,4 @@
 
 because it really does kick llm's ass.
 
-![[vector-role.png]]
+![[role-vector.png]]
