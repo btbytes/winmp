@@ -9,7 +9,7 @@ Retrieval Augmented Generation - #RAG is about augmenting base LLMs with knowled
 ---- 
 Configure [[Foundation Model|FM]]  to interact with your data
 
-![[attachemnts/Pasted image 20240320093539.png]]
+![[attachments/Pasted image 20240320093539.png]]
 
 
 ![[attachments/Pasted image 20240320094058.png]]
